@@ -95,10 +95,10 @@ team:
 
 skills-title: Skills
 skills:
-- {name: Web Design, color: '#fdb157', value: '90%'}
-- {name: Logo Design, color: '#9473e6', value: '60%'}
-- {name: After Effects, color: '#bdecf6', value: '80%'}
-- {name: Web App, color: '#ffbcaa', value: '70%'}
+- {name: Machine Learing, color: '#fdb157', value: '70%'}
+- {name: Data Mining, color: '#9473e6', value: '70%'}
+- {name: Python Web Dev, color: '#bdecf6', value: '80%'}
+- {name: Trading System, color: '#ffbcaa', value: '70%'}
 
 
 #-------------------------------
@@ -116,11 +116,8 @@ experience:
 
 education-title: Education
 education:
-- {name: Marters in UX Design, date: '2006', organization: 'Masassusets Institute of Technology'}
-- {name: Honours in Fine Arts, date: '2004', organization: 'Harvard University'}
-- {name: Higher Secondary Certificat, date: '2000', organization: 'Cardiff School'}
-- {name: Secondary School Certificate, date: '1998', organization: 'Cardiff School'}
-
+- {name: Chemical Engineering, graduate date: '2013', organization: 'China University of Mining and Technology (Beijing)'}
+- {name: Computer Science, graduate date: '2020', organization: 'Fudan University'}
 
 #-------------------------------
 # Services Section

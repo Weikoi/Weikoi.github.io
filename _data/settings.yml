@@ -6,7 +6,6 @@ logo:
 author: Weikoi
 description: this is meta description
 email: huangzengrui@yahoo.com
-phone: +880 2544 658 256
 address: Shanghai, China
 copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
 
@@ -38,7 +37,7 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Hi! I’m <br> Weikoi <br> Coder
+  hero-title: Hi! I’m Weikoi <br> a Coder
 
 social:
 - {icon: "ti-facebook", link: "#"}
@@ -52,7 +51,7 @@ social:
 
 # About Section
 blurb:
-  Hi，there! this is Weikoi, a Coder. Happy Coding!
+  Hi，there! this is Weikoi, a Coder. <br>Just Happy Coding!
 
 blurb-btn-link: '/about'
 blurb-btn-name: know more
@@ -62,13 +61,13 @@ blurb-btn-name: know more
 
 # Work Process Section
 work-experience:
-  - title : "Data Mining Algorithms"
+  - title : "Data Mining Algorithms Engineer"
     icon : "assets/images/icons/plan.png"
     content : "develop web crawler system and data mining with resume data."
     
-  - title : "Financial Algorithms"
+  - title : "Financial Model Engineer"
     icon : "assets/images/icons/design.png"
-    content : "."
+    content : "help to build fund Selection model and fund val evaluation model, also help build fund trading system"
 
 
 
@@ -101,11 +100,10 @@ skills:
 #-------------------------------
 # Exprerience Section
 
-experience-title: Experience
+experience-title: Work Experience
 experience:
-- {name: Junior UX Designer, icon: 'icon-1.png', date: 'Jan 2007 - Feb 2009', organization: 'WEBEX'}
-- {name: UX & UI Designer, icon: 'icon-2.png', date: 'Mar 2009 - Aug 2014', organization: 'AUGMEDIX'}
-- {name: Senior UI Designer, icon: 'icon-3.png', date: 'Sep 2014 - Present', organization: 'THEMEFISHER'}
+- {name: Data Mining Algorithms Engineer, icon: 'icon-1.png', date: 'Jan 2007 - Feb 2009', Company: 'Pinnacle Access Solutions'}
+- {name: Machine Learning Engineer, icon: 'icon-3.jpg', date: 'May 2021 - Now', Company: 'Huatai Securities'}
 
 
 #-------------------------------
